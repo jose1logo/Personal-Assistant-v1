@@ -1,0 +1,12 @@
+flask
+markdown-it-py
+groq
+gunicorn
+google-generativeai
+tavily-python
+google-auth-httplib2
+google-auth
+google-auth-oauthlib
+google-api-python-client
+cryptography
+python-dateutil
